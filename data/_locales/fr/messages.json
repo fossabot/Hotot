@@ -96,7 +96,7 @@
 		"description": "data/js/ui.welcome.js"
 	},
 	"chrome_context_menu_integration": {
-		"message": "Utiliser intégration contextuel Chrome",
+		"message": "Ajouter au menu contextuel de Chrome",
 		"description": "data/index.html"
 	},
 	"clear": {
@@ -116,7 +116,7 @@
 		"description": "data/index.html"
 	},
 	"click_the_button_below": {
-		"message": "Appuyer sur le bouton ci-dessous",
+		"message": "Cliquez sur le bouton ci-dessous",
 		"description": "data/index.html"
 	},
 	"click_to_compose_message": {
@@ -128,7 +128,7 @@
 		"description": "data/js/ui.template.js"
 	},
 	"click_to_show_retweeters": {
-		"message": "Cliquer pour voir les retweeters",
+		"message": "Cliquez pour voir les retweeters",
 		"description": "data/js/ui.template.js"
 	},
 	"close": {
@@ -164,7 +164,7 @@
 		"description": "data/index.html"
 	},
 	"custom_font": {
-		"message": "Police spéciale",
+		"message": "Police personnalisée",
 		"description": "data/index.html"
 	},
 	"default_picture_service": {
@@ -208,7 +208,7 @@
 		"description": "data/js/ui.template.js"
 	},
 	"eg_alt_h": {
-		"message": "",
+		"message": "par exemple <Alt>H",
 		"description": "data/index.html"
 	},
 	"enable": {
@@ -244,11 +244,11 @@
 		"description": "data/index.html"
 	},
 	"fav_or_un_fav": {
-		"message": "Mettre en favori/Un-fav",
+		"message": "Mettre en favori/Supprimer des favoris",
 		"description": "data/index.html"
 	},
 	"favorite_this_tweet_dots": {
-		"message": "Mettre ce tweet en favoris ...",
+		"message": "Mettre ce tweet en favori ...",
 		"description": "data/js/ui.main.js"
 	},
 	"favs": {
@@ -264,7 +264,7 @@
 		"description": "data/js/ui.template.js"
 	},
 	"filter_tweets_like_it": {
-		"message": "Filtrer les tweets que vous aimez",
+		"message": "Filtrer les tweets comme celui-ci",
 		"description": "data/index.html"
 	},
 	"find": {
@@ -276,7 +276,7 @@
 		"description": "data/js/lib.twitterapi.js"
 	},
 	"first_time_to_sign_in_with_twitter": {
-		"message": "",
+		"message": "Première connexion à Twitter",
 		"description": "data/index.html"
 	},
 	"follow": {
@@ -300,7 +300,7 @@
 		"description": "data/index.html"
 	},
 	"font_preview_hint": {
-		"message": "The quick brown fox jumps over the lazy dog.",
+		"message": "Dès Noël où un zéphyr haï me vêt de glaçons würmiens je dîne d’exquis rôtis de bœuf au kir à l’aÿ d’âge mûr & cætera !",
 		"description": "data/index.html"
 	},
 	"font_size": {
@@ -344,7 +344,7 @@
 		"description": "data/js/ui.slider.js"
 	},
 	"home_view": {
-		"message": "",
+		"message": "Onglet Accueil",
 		"description": "data/index.html"
 	},
 	"host": {
@@ -356,7 +356,7 @@
 		"description": "data/index.html"
 	},
 	"image_uploader": {
-		"message": "Uploader une Image",
+		"message": "Uploadeur de l'image",
 		"description": "data/index.html"
 	},
 	"info": {
@@ -368,7 +368,7 @@
 		"description": "data/index.html"
 	},
 	"intelligent_filter": {
-		"message": "Filtre intélligent",
+		"message": "Filtre intelligent",
 		"description": "data/index.html"
 	},
 	"interface_language": {
@@ -412,7 +412,7 @@
 		"description": "data/index.html"
 	},
 	"let_hotot_collects_anonymous_statistic_information": {
-		"message": "Laisser collecter a Hotot des informations de statistisques anonymes",
+		"message": "Autoriser Hotot à collecter des statistiques anonymes",
 		"description": "data/index.html"
 	},
 	"license": {
@@ -420,7 +420,7 @@
 		"description": "data/index.html"
 	},
 	"line_height": {
-		"message": "Taille Interline",
+		"message": "Taille interligne",
 		"description": "data/index.html"
 	},
 	"list": {

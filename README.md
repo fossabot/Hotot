@@ -1,4 +1,6 @@
 # Hotot
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feeeple%2FHotot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Feeeple%2FHotot?ref=badge_shield)
+
 Hotot is a "Lightweight, Flexible Microblogging Client" supporting
 Twitter and Identi.ca at this point of development. You may visit our
 official website at http://hotot.org/ . Check it out for any updates
@@ -114,3 +116,7 @@ To build on arch:
 There is something about a Gtk version in Python using some sort of
 "distutils".
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feeeple%2FHotot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Feeeple%2FHotot?ref=badge_large)
